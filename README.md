@@ -77,8 +77,8 @@ Robotics competition project from IIT Bombay's e-Yantra initiative. Autonomous n
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishypatel-4061&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishypatel-4061&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishypatel-4061&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishypatel-4061&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
 </div>
 
 <br>

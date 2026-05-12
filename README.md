@@ -87,9 +87,9 @@ Robotics competition project from IIT Bombay's e-Yantra initiative. Autonomous n
 
 If you're building something cool and need someone who can move fast, learn faster, and actually ship — reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL-HERE)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/krish-patel-940909320/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kypatel2006@gmail,com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](krish-patel-portfolio-psi.vercel.app)
 
 ---
 

@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Krishypatel-4061&color=blue&style=flat-square)
 # Hey, I'm Krish 👋
 
 **CSE sophomore @ VIT Chennai** — I build for the web, train models, and occasionally make robots do things they weren't supposed to.

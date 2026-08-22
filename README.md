@@ -69,7 +69,7 @@ Robotics competition project from IIT Bombay's e-Yantra initiative. Autonomous n
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishypatel-4061&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" onerror="this.style.display='none'" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishypatel-4061&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 GitHub Stats

@@ -69,16 +69,14 @@ Robotics competition project from IIT Bombay's e-Yantra initiative. Autonomous n
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Krishypatel-4061&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishypatel-4061&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" onerror="this.style.display='none'" />
 </div>
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishypatel-4061&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishypatel-4061&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krishypatel-4061&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishypatel-4061&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
 </div>
 
 <br>
@@ -90,9 +88,7 @@ Robotics competition project from IIT Bombay's e-Yantra initiative. Autonomous n
 <br>
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishypatel-4061&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishypatel-4061&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
